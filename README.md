@@ -5,6 +5,13 @@
 I'm passionate about **software engineering**, **system design**, **DevOps**, and **cloud computing** — basically anything that involves building interesting systems that are fast and scalable. While I just started out, I'm planning to discover and live through as many learning oppurtunites as I can. What matters most to me is to have fun and to enjoy this journey.
 ---
 
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwane-elbaraka/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MarTCM)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -42,9 +49,3 @@ I'm passionate about **software engineering**, **system design**, **DevOps**, an
 
 - 🥗 [**Macros**](https://github.com/MarTCM/Macros) — AI-powered nutrition tracker for Android. Local-first, Gemini-powered, built with React Native + Expo.
 
----
-
-## 📬 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwane-elbaraka/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MarTCM)
